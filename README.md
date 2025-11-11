@@ -1,5 +1,5 @@
 
-#  IT Ticketing System — Secure, Containerized, and Scalable
+#  IT Ticketing System: Secure, Containerized, and Scalable
 
 ## Table of Contents
 - [Overview](#overview)
