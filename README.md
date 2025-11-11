@@ -260,10 +260,10 @@ The ability to design, implement, test, and deploy secure applications.
 
 
 
-# Author
+## Author
 
-[Sorana Gavril]
-3rd-year Computing Science student — University of Groningen 
-Exploring secure software engineering and DevSecOps.
+**Sorana Gavril**  
+3rd-year Computing Science student — University of Groningen  
+Exploring secure software engineering and DevSecOps.  
 
 GitHub: [Sorana2](https://github.com/Sorana2)
