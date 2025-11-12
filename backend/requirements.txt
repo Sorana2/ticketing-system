@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+alembic
+pydantic
+pydantic-settings
+python-dotenv
+passlib[bcrypt]
+pytest
+pytest-asyncio
+httpx
+black
+ruff
+mypy
+bandit
+safety

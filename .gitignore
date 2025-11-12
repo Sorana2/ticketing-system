@@ -1,0 +1,55 @@
+
+# Python / FastAPI backend
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+venv/
+.env
+backend/.env
+
+# Byte-compiled files
+*.egg-info/
+build/
+dist/
+
+
+# Alembic (migrations)
+
+alembic/versions/__pycache__/
+
+
+# IDE / Editor settings
+
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+
+# Docker
+
+*.log
+*.pid
+*.tar
+docker-data/
+postgres_data/
+
+
+# Tests / Coverage
+
+.coverage
+htmlcov/
+pytest_cache/
+.cache/
+
+
+# Node / Frontend (future)
+
+node_modules/
+dist/
+.env.local
+.env.production
